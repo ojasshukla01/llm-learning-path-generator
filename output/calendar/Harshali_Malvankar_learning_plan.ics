@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- Drupal Performance Optimization: https://www.drupal.org/docs/8/upgrade/8.9/performance-optimization\n- Drupal Security Best Practices: https://www.drupal.org/docs/8/security/best-practices\n\nTask:\nOptimize the Drupal 9 website for performance and implement security best practices learned from the resources.
+DURATION:P1D
+DTSTART:20250604T021333Z
+SUMMARY:Week 4:: Drupal Performance Optimization and Security
+UID:9b8f878e-9e96-451a-87a3-498389696b63@9b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- Drupal Database API: https://www.drupal.org/docs/8/api/database-api\n- Drupal Migrations: https://www.drupal.org/docs/8/migrate\n\nTask:\nSet up and manage the Drupal 9 website's database\, and create a migration script to import data from another source.
+DURATION:P1D
+DTSTART:20250611T021333Z
+SUMMARY:Week 5:: Drupal Database Management and Migrations
+UID:28df0e72-d710-45e8-a565-092da9f4ad9c@28df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- Drupal Testing: https://www.drupal.org/docs/8/testing\n- Selenium WebDriver: https://www.selenium.dev/documentation/\n\nTask:\nWrite automated tests for the Drupal 9 project using Selenium WebDriver and ensure that the tests pass.
+DURATION:P1D
+DTSTART:20250625T021333Z
+SUMMARY:Week 7:: Drupal Testing and Quality Assurance
+UID:a324c3b1-526c-4008-a472-13662a1dd33d@a324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n\nTask:\nBuild a complex Drupal 9 project that showcases your skills in PHP\, Drupal\, APIs\, database management\, and testing. Document your experience to create a portfolio piece.
+DURATION:P1D
+DTSTART:20250702T021333Z
+SUMMARY:Week 8:: Final Project and Review
+UID:8a528dcf-dcf9-4abb-a1d4-56136513405c@8a52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- PHP Fundamentals Course: https://www.codecademy.com/learn/learn-php\n- Drupal 9 Fundamentals: https://www.drupal.org/learn/drupal/9\n\nTask:\nComplete Codecademy's PHP Fundamentals course and create a simple Drupal 9 website using the Drupal 9 Fundamentals tutorial.
+DURATION:P1D
+DTSTART:20250514T021333Z
+SUMMARY:Week 1:: PHP Fundamentals and Drupal Basics
+UID:aa920350-effb-4e96-8a76-b10dd26e9b1a@aa92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- Agile Project Management for Software Development: https://www.coursera.org/learn/agile-project-management\n- Git and GitHub: https://www.atlassian.com/git\n\nTask:\nLearn about Agile project management and set up a Git repository for your Drupal 9 project\, utilizing Git and GitHub for version control.
+DURATION:P1D
+DTSTART:20250618T021333Z
+SUMMARY:Week 6:: Project Management and Team Collaboration
+UID:ea9efea5-02f4-4cff-a742-a6754147e1b5@ea9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- PHP Object-Oriented Programming: https://www.w3schools.com/php/php_oop.asp\n\nTask:\nFamiliarize yourself with PHP OOP concepts and create a simple Drupal 9 module.
+DURATION:P1D
+DTSTART:20250521T021333Z
+SUMMARY:Week 2:: PHP OOP and Drupal Module Development
+UID:1aa9f8bc-ee78-40fd-9e0c-02fbc1a0286e@1aa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- Drupal Theme Development: https://www.drupal.org/docs/theming\n- Drupal RESTful Web Services: https://www.drupal.org/docs/8/api/restful-web-services/getting-started\n\nTask:\nModify the Drupal 9 website created in Week 1 and implement a RESTful API using the Drupal RESTful Web Services module.
+DURATION:P1D
+DTSTART:20250528T021333Z
+SUMMARY:Week 3:: Drupal Theme Development and API Integration
+UID:ed7064f8-4d4c-44eb-ade6-0c4496e5398f@ed70.org
+END:VEVENT
+END:VCALENDAR

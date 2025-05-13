@@ -1,0 +1,88 @@
+Week 1:
+- Focus: Introduction to Data Engineering and Python Basics
+
+Resources:
+- [Python for Everybody (Coursera) by Charles Severance](https://www.coursera.org/learn/python)
+- [Google's Python Class (Code.org)](https://studio.code.org/courses/course-4)
+
+Task: Complete the Python for Everybody course and practice your Python skills by implementing simple data manipulation scripts using Jupyter Notebook.
+
+Week 2:
+- Focus: SQL and Database Fundamentals
+
+Resources:
+- [SQL Tutorial for Beginners (W3Schools)](https://www.w3schools.com/sql/)
+- [SQLBolt](https://sqlbolt.com/)
+
+Task: Practice SQL queries on various datasets to familiarize yourself with database manipulation.
+
+Week 3:
+- Focus: Introduction to Cloud Platforms (Google Cloud Platform)
+
+Resources:
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/cloud-architecture-google)
+- [Google Cloud Platform Fundamentals: Data Analytics](https://www.coursera.org/learn/cloud-data-analytics-google)
+
+Task: Finish the above two Coursera courses and create a simple Google Cloud Storage bucket and a SQL database.
+
+Week 4:
+- Focus: Data Wrangling and ETL Processes
+
+Resources:
+- [Pandas for Data Analysis (DataCamp)](https://www.datacamp.com/courses/pandas-for-data-analysis)
+- [ETL Processes (Towards Data Science)](https://towardsdatascience.com/what-is-etl-process-and-why-is-it-so-important-for-data-engineering-c5c428e3c534)
+
+Task: Use Pandas to manipulate datasets and implement a simple ETL pipeline using Google Cloud Console.
+
+Week 5:
+- Focus: Introduction to Data Warehousing and Data Lakes
+
+Resources:
+- [Data Warehousing (TechTarget)](https://whatis.techtarget.com/definition/data-warehouse)
+- [Data Lake (TechTarget)](https://whatis.techtarget.com/definition/data-lake)
+
+Task: Research and write a brief report on the differences between data warehouses and data lakes, focusing on their use in data engineering.
+
+Week 6:
+- Focus: Cloud Data Storage and Processing (Google Cloud Platform)
+
+Resources:
+- [BigQuery: Google's Fully Managed, No-SQL Data Warehouse](https://cloud.google.com/products/bigquery)
+- [Google Cloud Dataflow](https://cloud.google.com/dataflow)
+
+Task: Set up a BigQuery instance and run a simple data processing job using Google Cloud Dataflow.
+
+Week 7:
+- Focus: Data Pipeline Optimization and Automation
+
+Resources:
+- [Google Cloud Composer (Apache Airflow)](https://cloud.google.com/composer)
+- [Data Pipeline Optimization (Towards Data Science)](https://towardsdatascience.com/data-pipeline-optimization-strategies-for-big-data-7079b085db91)
+
+Task: Create an Airflow DAG to automate your ETL pipeline and optimize its performance.
+
+Week 8:
+- Focus: Data Governance and Quality Control
+
+Resources:
+- [Data Governance: A Guide for Data Management and Analysis (IBM)](https://www.ibm.com/topics/data-governance)
+- [Data Quality Assessment (TechTarget)](https://whatis.techtarget.com/definition/data-quality)
+
+Task: Develop a data quality assessment plan for your automated ETL pipeline and implement initial quality checks.
+
+Week 9:
+- Focus: Cloud Computing and DevOps (Google Cloud Platform)
+
+Resources:
+- [Google Cloud Platform: DevOps Best Practices (Google Cloud)](https://cloud.google.com/devops-docs/best-practices)
+- [Google Cloud Continuous Deployment](https://cloud.google.com/deployment-manager/docs/overview)
+
+Task: Set up continuous deployment for your ETL pipeline using Google Cloud Deployment Manager.
+
+Week 10:
+- Focus: Review and Final Project
+
+Resources:
+- [Google Cloud Platform: Resources and Tutorials](https://cloud.google.com/learn/tutorials)
+
+Task: Review all the concepts learned throughout the course and create a final project that integrates all the skills acquired, such as building a comprehensive ETL pipeline using various Google Cloud Platform services.

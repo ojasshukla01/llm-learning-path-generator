@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n\nTask:\n
+DURATION:P1D
+DTSTART:20250611T020457Z
+SUMMARY:Week 5:: Introduction to Data Warehousing and Data Lakes
+UID:377924bb-07b9-48a4-8af2-bc4069b06c29@3779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n\nTask:\n
+DURATION:P1D
+DTSTART:20250618T020457Z
+SUMMARY:Week 6:: Cloud Data Storage and Processing (Google Cloud Platform)
+UID:fb70e6f8-258f-4209-92c3-4f17e97166ac@fb70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [SQL Tutorial for Beginners (W3Schools)](https://www.w3schools.com/sql/)\n\nTask:\n
+DURATION:P1D
+DTSTART:20250521T020457Z
+SUMMARY:Week 2:: SQL and Database Fundamentals
+UID:bcf0c05c-176a-41f8-814c-e26f768e4aa1@bcf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n\nTask:\n
+DURATION:P1D
+DTSTART:20250709T020457Z
+SUMMARY:Week 9:: Cloud Computing and DevOps (Google Cloud Platform)
+UID:44a50bae-96a4-473d-ac3d-a13a3897d958@44a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/cloud-architecture-google)\n- [Google Cloud Platform Fundamentals: Data Analytics](https://www.coursera.org/learn/cloud-data-analytics-google)\n\nTask:\n
+DURATION:P1D
+DTSTART:20250528T020457Z
+SUMMARY:Week 3:: Introduction to Cloud Platforms (Google Cloud Platform)
+UID:b53eec5b-402f-4129-b841-f63e578dcadd@b53e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n\nTask:\n
+DURATION:P1D
+DTSTART:20250625T020457Z
+SUMMARY:Week 7:: Data Pipeline Optimization and Automation
+UID:625620b8-17db-4a69-965d-4dbd7a8bea1d@6256.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n\nTask:\n
+DURATION:P1D
+DTSTART:20250716T020457Z
+SUMMARY:Week 10:: Review and Final Project
+UID:9e1c97c9-9567-475a-8910-f09d9d4c3c73@9e1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Pandas for Data Analysis (DataCamp)](https://www.datacamp.com/courses/pandas-for-data-analysis)\n\nTask:\n
+DURATION:P1D
+DTSTART:20250604T020457Z
+SUMMARY:Week 4:: Data Wrangling and ETL Processes
+UID:c34512a9-4d5b-42bf-8a76-fc73a35af9e0@c345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Python for Everybody (Coursera) by Charles Severance](https://www.coursera.org/learn/python)\n\nTask:\n
+DURATION:P1D
+DTSTART:20250514T020457Z
+SUMMARY:Week 1:: Introduction to Data Engineering and Python Basics
+UID:a3f3e9f6-610a-4953-8404-3c28984f4cb8@a3f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Data Governance: A Guide for Data Management and Analysis (IBM)](https://www.ibm.com/topics/data-governance)\n\nTask:\n
+DURATION:P1D
+DTSTART:20250702T020457Z
+SUMMARY:Week 8:: Data Governance and Quality Control
+UID:db3790d3-e17b-4b1d-a7da-548d56e6403a@db37.org
+END:VEVENT
+END:VCALENDAR

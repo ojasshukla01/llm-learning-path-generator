@@ -1,0 +1,59 @@
+Title: 6-Month Learning Roadmap for Becoming an ML Researcher (8 hours/week)
+
+Week 1-2: **Introduction to Machine Learning**
+1. Introduction to Machine Learning (Coursera's Machine Learning by Andrew Ng)
+   - Approximately 4 hours/week for 2 weeks
+   - Project: Implement a simple linear regression model using Python and Scikit-learn
+
+Week 3-4: **Mathematics for ML**
+1. Linear Algebra (3Blue1Brown's Linear Algebra playlist on YouTube)
+   - Spend 4 hours/week for 2 weeks
+  2. Calculus (Khan Academy's Calculus I and II)
+   - Spend 4 hours/week for 2 weeks
+
+Week 5-6: **Probability & Statistics**
+1. Probability (Khan Academy's Probability)
+   - Spend 4 hours/week for 2 weeks
+  2. Statistics (Khan Academy's Statistics and Probability)
+   - Spend 4 hours/week for 2 weeks
+
+Week 7-8: **Python Programming for Machine Learning**
+1. Python for Everybody (Coursera's Python for Everybody by University of Michigan)
+   - Spend 4 hours/week for 2 weeks
+   - Project: Build a web app using Flask and SQLite to analyze data
+
+Week 9-10: **Introduction to Machine Learning Libraries**
+1. Scikit-learn Tutorials (Scikit-learn's Documentation)
+   - Spend 4 hours/week for 2 weeks
+   - Project: Implement a logistic regression model for classification and evaluate its performance
+
+Week 11-12: **Deep Learning Basics**
+1. Deep Learning Specialization (Coursera's Deep Learning Specialization by Andrew Ng)
+   - Spend 4 hours/week for 2 weeks focusing on the first course: Neural Networks and Deep Learning
+   - Project: Implement a convolutional neural network (CNN) for image classification using Keras
+
+Week 13-14: **Natural Language Processing**
+1. Natural Language Processing (Coursera's Natural Language Processing Specialization by Johns Hopkins University)
+   - Spend 4 hours/week for 2 weeks focusing on the first course: Introduction to Text Mining in Python
+   - Project: Build a text classification model using Naive Bayes or other NLP techniques
+
+Week 15-16: **Reinforcement Learning**
+1. Reinforcement Learning (Coursera's Reinforcement Learning Specialization by DeepMind)
+   - Spend 4 hours/week for 2 weeks focusing on the first course: Mathematics for Reinforcement Learning
+   - Project: Implement Q-Learning or SARSA algorithm to solve the CartPole problem
+
+Week 17-18: **Applied Machine Learning Project**
+1. Apply machine learning algorithms learned to a real-world project of your choice
+   - Spend 8 hours/week for 2 weeks
+   - Project: Work on a Kaggle competition or an open-source project to gain hands-on experience
+
+Week 19-20: **Machine Learning Research Papers & Practical Skills**
+1. Reading and Understanding Research Papers (Stanford's CS224d: Reading and Understanding Research Papers)
+   - Spend 4 hours/week for 2 weeks
+  2. Practical Machine Learning (Coursera's Practical Machine Learning course by UC Berkeley)
+   - Spend 4 hours/week for 2 weeks
+
+Week 21-24: **Specialization Project**
+1. Work on a research project in your area of interest
+   - Spend 8 hours/week for 4 weeks
+   - Project: Contribute to an open-source ML project, or write a research paper based on your findings from the previous project

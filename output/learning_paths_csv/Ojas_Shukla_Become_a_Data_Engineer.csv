@@ -1,0 +1,17 @@
+Week,Focus,Resources,Task
+Week 1:,Introduction to Data Engineering and Python Basics,"
+- [Python for Everybody (Coursera) by Charles Severance](https://www.coursera.org/learn/python)",
+Week 2:,SQL and Database Fundamentals,"
+- [SQL Tutorial for Beginners (W3Schools)](https://www.w3schools.com/sql/)",
+Week 3:,Introduction to Cloud Platforms (Google Cloud Platform),"
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/cloud-architecture-google)
+- [Google Cloud Platform Fundamentals: Data Analytics](https://www.coursera.org/learn/cloud-data-analytics-google)",
+Week 4:,Data Wrangling and ETL Processes,"
+- [Pandas for Data Analysis (DataCamp)](https://www.datacamp.com/courses/pandas-for-data-analysis)",
+Week 5:,Introduction to Data Warehousing and Data Lakes,,
+Week 6:,Cloud Data Storage and Processing (Google Cloud Platform),,
+Week 7:,Data Pipeline Optimization and Automation,,
+Week 8:,Data Governance and Quality Control,"
+- [Data Governance: A Guide for Data Management and Analysis (IBM)](https://www.ibm.com/topics/data-governance)",
+Week 9:,Cloud Computing and DevOps (Google Cloud Platform),,
+Week 10:,Review and Final Project,,

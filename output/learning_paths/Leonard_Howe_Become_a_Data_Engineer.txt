@@ -1,0 +1,95 @@
+Title: 6-Month Data Engineering Learning Roadmap for Beginners
+
+**Week 1-2: Introduction to Data Engineering**
+- Understand the role of a data engineer, its importance, and the skills required.
+- Learn about the data engineering lifecycle, including data collection, storage, processing, and delivery.
+
+Resources:
+1. Introduction to Data Engineering (Coursera by University of Michigan) - https://www.coursera.org/learn/introduction-to-data-engineering
+2. What is Data Engineering? (Medium by Data Engineering Podcast) - https://medium.com/data-engineering-podcast/what-is-data-engineering-91d3f1c7577
+
+**Week 3-4: Data Structures and Algorithms**
+- Study fundamental data structures (arrays, linked lists, trees, graphs) and algorithms (sorting, searching, optimization).
+
+Resources:
+1. Data Structures and Algorithms in Java (GeeksforGeeks) - https://www.geeksforgeeks.org/data-structures/
+2. Sorting Algorithms (Sorting.com) - https://sorting.com/
+
+**Week 5-6: SQL and Database Systems**
+- Master SQL (Structured Query Language) basics, including queries, joins, and aggregations.
+- Learn about relational database systems and NoSQL databases.
+
+Resources:
+1. SQL Tutorial for Beginners (W3Schools) - https://www.w3schools.com/sql/
+2. Database Systems (Coursera by University of California, San Diego) - https://www.coursera.org/learn/database-systems
+
+**Week 7-8: ETL (Extract, Transform, Load) Pipelines**
+- Understand the ETL process and the tools used (Apache Niwi, Apache Beam, Talend, etc.).
+
+Resources:
+1. ETL Process Explained (Talend) - https://www.talend.com/resources/etl-process-explained
+2. Apache Beam: Getting Started (Google Cloud) - https://beam.apache.org/get-started/
+
+**Week 9-10: Big Data Technologies**
+- Learn about big data technologies (Hadoop, Spark, Hive, Pig, etc.).
+
+Resources:
+1. Hadoop Fundamentals (Coursera by University of California, San Diego) - https://www.coursera.org/learn/hadoop-fundamentals
+2. Apache Spark - Learn by Example (Datacamp) - https://courses.datacamp.com/courses/apache-spark-learn-by-example
+
+**Week 11-12: Cloud Platforms (AWS, GCP, Azure)**
+- Familiarize yourself with cloud platforms (Amazon Web Services, Google Cloud Platform, Microsoft Azure) and their data engineering services.
+
+Resources:
+1. AWS Big Data (AWS Training and Certification) - https://aws.amazon.com/big-data/
+2. Google Cloud Data Engineering (Google Cloud) - https://cloud.google.com/data-engineering
+3. Microsoft Azure Big Data (Microsoft Learn) - https://docs.microsoft.com/en-us/learn/paths/azure-big-data/
+
+**Week 13-14: Data Warehousing and Data Pipelines**
+- Learn about data warehousing, data modeling, and data pipeline design.
+
+Resources:
+1. Data Warehousing (Coursera by University of California, Davis) - https://www.coursera.org/learn/data-warehousing
+2. Designing Data-Intensive Applications (Google Cloud) - https://cloud.google.com/books/designingdata-intensive-apps/
+
+**Week 15-16: Project Work**
+- Apply your knowledge to build a small-scale data engineering project, such as an ETL pipeline or a data warehouse.
+
+Resources:
+1. Project ETL (Data Engineering Projects) - https://github.com/data-engineering-projects/project-etl
+2. Data Warehouse Design (Data Vault) - https://datavaultmodel.com/
+
+**Week 17-18: Interview Preparation**
+- Learn common data engineering interview questions and best practices for preparing for technical interviews.
+
+Resources:
+1. Data Engineering Interview Questions (Medium by Interviewing.io) - https://medium.com/interviewing-io/data-engineering-interview-questions-218d228a178
+2. Cracking the Coding Interview (Book by Gayle Laakmann McDowell) - https://www.crackingthecodinginterview.com/
+
+**Week 19-20: Continued Practice and Networking**
+- Continue to practice and enhance your skills through online challenges, coding exercises, and participating in data engineering communities.
+
+Resources:
+1. Kaggle (Data Science Competitions) - https://www.kaggle.com/
+2. Data Engineering Slack Community (Data Engineering Forum) - https://dataengineering.slack.com/
+
+**Week 21-22: Job Application and Preparation**
+- Begin applying for data engineering positions and prepare for interviews.
+
+Resources:
+1. Data Engineering Jobs (Indeed, Glassdoor, LinkedIn) - https://www.indeed.com/q-Data-Engineer-l-Job.html, https://www.glassdoor.com/Job/Data-Engineer-jobs.htm, https://www.linkedin.com/jobs/data-engineer-jobs/
+2. Data Engineering Interview Preparation (LeetCode, HackerRank) - https://leetcode.com/, https://www.hackerrank.com/domains/data-structure
+
+**Week 23-24: Continued Learning and Career Growth**
+- Upon landing a data engineering role, continue to learn and grow in your career by seeking out mentorship, attending workshops, and participating in industry events.
+
+Resources:
+1. Data Engineering Workshops (Google Cloud) - https://cloud.google.com/events/data-engineering/
+2. Data Engineering Community (Meetup) - https://www.meetup.com/topics/data-engineering/
+
+**Week 25-26: Review, Reflect, and Plan for the Future**
+- Review your progress, reflect on your learning journey, and plan for future growth and development as a data engineer.
+
+Resources:
+1. Data Engineering Roadmap (Data Engineering Hub) - https://dataengineering.pro/roadmap/
+2. Data Engineering Blogs, Podcasts, and Newsletters - (awesome-bigdata, Towards Data Science, KDnuggets, O'Reilly Data)

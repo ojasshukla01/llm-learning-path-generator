@@ -1,0 +1,7 @@
+streamlit
+pandas
+duckdb
+faker
+openai
+langchain
+python-dotenv

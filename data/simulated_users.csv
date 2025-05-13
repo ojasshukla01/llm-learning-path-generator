@@ -1,0 +1,501 @@
+name,email,goal,skill_level,preferred_style,available_hours_week,duration_months
+Kelsey Wright,jbradley@example.net,Learn Web Development,Beginner,Hands-on Projects,5,2
+Leonard Howe,hjackson@example.com,Become a Data Engineer,Beginner,Text-heavy,20,6
+Alan Martinez,heidihahn@example.net,Become an ML Researcher,Beginner,Hands-on Projects,8,6
+Lauren Clark,melanie73@example.net,Master NLP,Advanced,Hands-on Projects,8,2
+Mary Davis,pcooley@example.org,Become an ML Researcher,Beginner,Hands-on Projects,7,6
+Keith Stewart,savannahsampson@example.net,Learn Web Development,Intermediate,Text-heavy,8,4
+Wendy Jones,joseph05@example.org,Learn Web Development,Intermediate,Hands-on Projects,7,3
+Mary Berry,warrenhannah@example.org,Become a Data Engineer,Intermediate,Video-heavy,18,6
+Jerry Wilkinson,rgonzalez@example.com,Master NLP,Advanced,Video-heavy,6,2
+Todd Watson II,ryanlaura@example.com,Become a Data Engineer,Beginner,Text-heavy,15,3
+Jamie Patton,christina88@example.net,Become a Data Engineer,Beginner,Hands-on Projects,12,2
+Angela Cox,brian94@example.org,Become a Data Engineer,Advanced,Text-heavy,12,2
+Grant Elliott DVM,andrewparrish@example.org,Become a Data Engineer,Advanced,Text-heavy,5,2
+Angela Wise,omorgan@example.com,Become an ML Researcher,Intermediate,Text-heavy,19,2
+Nicole Farrell,danielreeves@example.com,Become a Data Engineer,Beginner,Video-heavy,17,2
+Melissa Gray,shelbyrodriguez@example.org,Master NLP,Advanced,Hands-on Projects,12,3
+Michael Turner,omiller@example.com,Become a Data Engineer,Intermediate,Hands-on Projects,20,6
+Michael Rogers,shane47@example.com,Become a Data Engineer,Intermediate,Text-heavy,10,5
+Jennifer Snyder,ihall@example.net,Become a Data Engineer,Intermediate,Hands-on Projects,20,6
+Tanya Smith,cweber@example.org,Become an ML Researcher,Beginner,Hands-on Projects,15,3
+Willie Johnson,spencer08@example.org,Become an ML Researcher,Advanced,Video-heavy,12,6
+Danielle Washington,christopherbennett@example.com,Become an ML Researcher,Beginner,Hands-on Projects,12,4
+Jennifer Stevens,christopherhunter@example.net,Become an ML Researcher,Beginner,Video-heavy,9,4
+Mr. Billy Dunn,wsmith@example.com,Become a Data Engineer,Beginner,Hands-on Projects,15,5
+Elizabeth Castaneda,dawn57@example.com,Become an ML Researcher,Beginner,Text-heavy,11,4
+Kimberly Caldwell,comptontracy@example.org,Learn Web Development,Advanced,Hands-on Projects,20,4
+George White,andrew75@example.net,Become a Data Engineer,Advanced,Video-heavy,12,6
+Nathaniel Boyle,jill26@example.com,Master NLP,Advanced,Video-heavy,15,4
+Kayla Johnson,ssmith@example.net,Become an ML Researcher,Beginner,Video-heavy,13,4
+Alexa Love,monica06@example.org,Become a Data Engineer,Advanced,Video-heavy,8,5
+Diamond Paul,angela08@example.net,Learn Web Development,Beginner,Video-heavy,14,4
+James Hunter,awright@example.org,Become an ML Researcher,Advanced,Video-heavy,5,6
+Amy Thomas,rachelharrell@example.net,Become a Data Engineer,Intermediate,Hands-on Projects,19,4
+Christina Moore,leaholson@example.com,Master NLP,Advanced,Text-heavy,6,2
+Walter Robinson,dwarren@example.net,Become a Data Engineer,Advanced,Video-heavy,13,6
+Michael Stewart,felicia69@example.org,Become an ML Researcher,Advanced,Video-heavy,17,5
+Samuel Chan,victor70@example.com,Master NLP,Intermediate,Hands-on Projects,19,3
+Mary Evans,jeffrey60@example.org,Become an ML Researcher,Intermediate,Hands-on Projects,17,2
+Charles Johnson,tommycastillo@example.org,Become a Data Engineer,Intermediate,Video-heavy,10,4
+Adam Pitts,greendebra@example.com,Become an ML Researcher,Beginner,Text-heavy,17,3
+Casey Stewart,davidolson@example.com,Master NLP,Advanced,Text-heavy,17,5
+Michael Lutz,flemingdominique@example.org,Become a Data Engineer,Intermediate,Text-heavy,18,2
+Nicole Woods,sanchezkelly@example.org,Become an ML Researcher,Advanced,Hands-on Projects,19,3
+Karen Allen MD,amyford@example.net,Become an ML Researcher,Advanced,Video-heavy,20,2
+Anthony White,ipratt@example.org,Become a Data Engineer,Beginner,Text-heavy,10,5
+Alexander Pope,mnichols@example.net,Become a Data Engineer,Advanced,Video-heavy,6,4
+Jacob Lopez,jamescarter@example.org,Master NLP,Advanced,Text-heavy,15,3
+Melissa Hernandez,andersonchristopher@example.net,Learn Web Development,Intermediate,Video-heavy,16,2
+Brandi Miller,monica25@example.org,Become a Data Engineer,Advanced,Video-heavy,7,3
+Kimberly Peters,elaine23@example.com,Master NLP,Advanced,Video-heavy,16,3
+Luis Carroll,beverly83@example.net,Master NLP,Advanced,Hands-on Projects,20,5
+Aaron Scott,john80@example.org,Master NLP,Beginner,Text-heavy,20,3
+Kevin Schneider,kim22@example.net,Become a Data Engineer,Advanced,Hands-on Projects,11,2
+James Thompson,kking@example.net,Master NLP,Advanced,Text-heavy,5,5
+Lisa Chavez,pmarshall@example.net,Become an ML Researcher,Beginner,Video-heavy,15,5
+Robert Brown,donnamoody@example.net,Become a Data Engineer,Intermediate,Text-heavy,14,5
+John Hill,deborahadams@example.org,Become a Data Engineer,Intermediate,Hands-on Projects,15,6
+Martha Hinton,bkelly@example.net,Become an ML Researcher,Intermediate,Hands-on Projects,10,3
+Kyle Harper,ngardner@example.org,Learn Web Development,Intermediate,Hands-on Projects,11,2
+Michelle Wright,gcampbell@example.org,Learn Web Development,Intermediate,Text-heavy,11,6
+Shaun Ramsey,ugarcia@example.com,Become a Data Engineer,Intermediate,Hands-on Projects,17,3
+Jerry Gutierrez,reyeslaurie@example.net,Master NLP,Advanced,Video-heavy,15,4
+Cindy Wilcox,christina73@example.net,Master NLP,Beginner,Hands-on Projects,16,2
+Edward Spencer,vwilson@example.org,Become a Data Engineer,Beginner,Hands-on Projects,6,5
+Gary Sanchez,stevenboyd@example.com,Learn Web Development,Intermediate,Video-heavy,12,6
+Stephanie Scott,dcunningham@example.com,Become a Data Engineer,Intermediate,Text-heavy,14,3
+Jared Weaver,michael11@example.net,Become an ML Researcher,Intermediate,Video-heavy,13,5
+Zoe Rodriguez,iramirez@example.net,Become an ML Researcher,Advanced,Text-heavy,9,2
+Shane Sherman,nancy99@example.net,Become a Data Engineer,Intermediate,Hands-on Projects,8,6
+Sierra Watson,emily05@example.org,Learn Web Development,Advanced,Video-heavy,5,6
+Katie Dunn,derrick74@example.org,Become a Data Engineer,Beginner,Video-heavy,5,2
+Kaitlin Wood,jonathanholden@example.net,Learn Web Development,Beginner,Video-heavy,19,4
+Elizabeth Harrison,kingjustin@example.com,Become a Data Engineer,Advanced,Hands-on Projects,12,6
+Brittany Ramirez,jordanalice@example.com,Learn Web Development,Advanced,Video-heavy,18,6
+Jason Mcneil,michelle38@example.com,Learn Web Development,Advanced,Text-heavy,12,3
+Robert Walker,felicia90@example.org,Become a Data Engineer,Beginner,Hands-on Projects,18,3
+Yvonne Schneider,brian82@example.com,Master NLP,Beginner,Hands-on Projects,5,4
+Joseph Cain,brittanymclaughlin@example.org,Learn Web Development,Beginner,Hands-on Projects,11,2
+Kristin Davis,harrisgrant@example.net,Become a Data Engineer,Beginner,Video-heavy,10,6
+Gregory Goodwin,zmiller@example.org,Master NLP,Beginner,Text-heavy,14,5
+Kevin Shannon,jdavis@example.net,Learn Web Development,Advanced,Video-heavy,13,4
+Christine Flores,ujames@example.org,Master NLP,Advanced,Video-heavy,17,6
+Ana Riggs,vwashington@example.org,Become a Data Engineer,Beginner,Text-heavy,17,6
+Matthew Wright DVM,wallen@example.org,Master NLP,Intermediate,Text-heavy,10,6
+Rachel Santos,bwood@example.com,Learn Web Development,Advanced,Video-heavy,13,5
+Patricia Boyd,daniel34@example.com,Become an ML Researcher,Advanced,Text-heavy,18,3
+Frank Rios,josemartin@example.org,Master NLP,Intermediate,Video-heavy,14,2
+Craig Johns,kmorales@example.org,Master NLP,Advanced,Text-heavy,12,4
+Alan Nguyen,mooreandrew@example.org,Become an ML Researcher,Advanced,Hands-on Projects,11,2
+Joseph Knight,emily72@example.org,Become an ML Researcher,Intermediate,Text-heavy,13,4
+Brittney Zimmerman,psweeney@example.org,Become an ML Researcher,Advanced,Hands-on Projects,19,6
+David Jones,jillvaldez@example.net,Become an ML Researcher,Beginner,Video-heavy,20,6
+Kimberly Simmons,hsalinas@example.org,Master NLP,Intermediate,Video-heavy,10,5
+Elizabeth Torres,anthony09@example.org,Learn Web Development,Beginner,Video-heavy,5,3
+Maria Dodson,valenciatheresa@example.com,Learn Web Development,Advanced,Hands-on Projects,7,3
+Lisa Perkins,stephenrosales@example.net,Become a Data Engineer,Advanced,Video-heavy,19,2
+Maria Adams,davidwilliams@example.net,Become a Data Engineer,Advanced,Video-heavy,14,4
+Brittany Walton,carpentertheresa@example.org,Learn Web Development,Intermediate,Hands-on Projects,18,2
+Michelle Adams,vduncan@example.org,Master NLP,Intermediate,Hands-on Projects,11,5
+Kenneth Vargas,lanekurt@example.net,Become an ML Researcher,Intermediate,Text-heavy,20,5
+Matthew Jacobs,chungluis@example.net,Master NLP,Beginner,Video-heavy,8,4
+Kristy Lamb,martinezkathleen@example.net,Learn Web Development,Beginner,Hands-on Projects,7,5
+Larry Flores,powelljennifer@example.org,Learn Web Development,Advanced,Text-heavy,12,6
+Cynthia Fox,meyerdana@example.com,Become an ML Researcher,Advanced,Text-heavy,8,5
+Mario Daniels,bfuller@example.net,Become an ML Researcher,Intermediate,Video-heavy,5,2
+Kevin Sharp,greenejulia@example.net,Become an ML Researcher,Beginner,Hands-on Projects,12,3
+Virginia Romero,cannonshawn@example.com,Become an ML Researcher,Advanced,Text-heavy,14,4
+Keith Herrera,robert14@example.com,Become an ML Researcher,Beginner,Video-heavy,6,5
+Michael Franklin,wileynatalie@example.com,Become an ML Researcher,Advanced,Video-heavy,5,4
+James Lucas,chenstephen@example.com,Master NLP,Beginner,Video-heavy,13,3
+Elizabeth Carter,yhoover@example.org,Master NLP,Intermediate,Hands-on Projects,5,3
+Frank Lozano,randall12@example.com,Become an ML Researcher,Advanced,Video-heavy,18,3
+Paul Boyle,owensjasmine@example.com,Become a Data Engineer,Intermediate,Text-heavy,12,4
+Richard White,aholt@example.com,Become an ML Researcher,Intermediate,Video-heavy,15,6
+Crystal Maynard,duncantroy@example.org,Master NLP,Advanced,Hands-on Projects,18,5
+Nathaniel Adams,jonescynthia@example.org,Master NLP,Beginner,Video-heavy,15,4
+Michael Garcia,pgriffin@example.com,Become a Data Engineer,Beginner,Text-heavy,18,5
+John Brown,smithjerry@example.com,Learn Web Development,Beginner,Text-heavy,15,5
+Daniel Brown,tanner76@example.com,Become an ML Researcher,Advanced,Hands-on Projects,5,4
+Jacob Armstrong,jamessharon@example.net,Become a Data Engineer,Advanced,Hands-on Projects,11,5
+Michael Bryan MD,edward41@example.net,Master NLP,Beginner,Hands-on Projects,14,4
+Haley Wagner,fullertanner@example.org,Become an ML Researcher,Beginner,Video-heavy,4,5
+Ruben Phillips,rileythompson@example.net,Master NLP,Intermediate,Text-heavy,13,4
+Tyler White,alison01@example.net,Become an ML Researcher,Beginner,Video-heavy,4,4
+Greg Phillips,hgonzalez@example.com,Become a Data Engineer,Beginner,Hands-on Projects,10,6
+Erik Wu,whitneycastillo@example.com,Master NLP,Advanced,Video-heavy,20,3
+Kim Brady,xvega@example.org,Learn Web Development,Beginner,Hands-on Projects,6,6
+Robert Guerrero,xarmstrong@example.net,Master NLP,Beginner,Text-heavy,9,4
+Steven Schmidt,robinsonhayley@example.com,Become an ML Researcher,Intermediate,Hands-on Projects,13,4
+Kathryn Ruiz,joseph91@example.org,Become a Data Engineer,Advanced,Text-heavy,6,4
+Vanessa Sharp,ncollins@example.org,Master NLP,Beginner,Hands-on Projects,20,6
+Dominique Thomas,ejohnson@example.org,Learn Web Development,Beginner,Text-heavy,11,5
+Dr. Kristin Cunningham MD,laguilar@example.net,Become a Data Engineer,Intermediate,Hands-on Projects,17,6
+Michael Jacobs,burgesscarla@example.net,Learn Web Development,Beginner,Hands-on Projects,4,3
+James Barber,pwhite@example.org,Master NLP,Intermediate,Text-heavy,14,2
+Kathryn Scott,barry24@example.org,Learn Web Development,Intermediate,Video-heavy,9,5
+Mrs. Dawn Hart,dayandrea@example.com,Learn Web Development,Intermediate,Video-heavy,9,5
+Johnny Stark,kherrera@example.net,Become an ML Researcher,Beginner,Video-heavy,20,2
+Jeffrey Mcdowell,michaelcombs@example.net,Learn Web Development,Advanced,Text-heavy,16,3
+Karen Ramos,loveseth@example.com,Learn Web Development,Advanced,Text-heavy,19,4
+Adam Pena,gmaxwell@example.org,Master NLP,Beginner,Hands-on Projects,7,5
+Brian Dunn,brownmartin@example.com,Become an ML Researcher,Advanced,Hands-on Projects,7,5
+Michael Farmer,douglasjackson@example.net,Become an ML Researcher,Beginner,Video-heavy,12,3
+Denise Zimmerman,tracyford@example.org,Become an ML Researcher,Intermediate,Text-heavy,14,6
+Dr. Kathryn Wright DDS,smithhannah@example.org,Learn Web Development,Beginner,Hands-on Projects,14,2
+Gregory Allen,ystrong@example.org,Become a Data Engineer,Beginner,Text-heavy,14,6
+Christopher Dillon,emilymatthews@example.org,Become a Data Engineer,Intermediate,Video-heavy,13,6
+Linda Newton,rollinsmelissa@example.com,Become an ML Researcher,Beginner,Hands-on Projects,5,3
+Lisa Watson,gcase@example.com,Master NLP,Beginner,Text-heavy,17,6
+Daniel Moore,zlane@example.com,Become an ML Researcher,Advanced,Video-heavy,7,5
+Jason Webster,turnerdorothy@example.org,Learn Web Development,Intermediate,Video-heavy,14,3
+Daniel Key,morenomeghan@example.org,Learn Web Development,Intermediate,Video-heavy,7,6
+Stephanie Smith,amanda11@example.org,Learn Web Development,Beginner,Video-heavy,16,2
+Samantha Ray,katherine36@example.net,Become an ML Researcher,Intermediate,Video-heavy,18,6
+Jonathon Douglas,andersonkristine@example.net,Become an ML Researcher,Intermediate,Video-heavy,9,6
+Alicia Snyder,gbest@example.net,Become an ML Researcher,Advanced,Video-heavy,12,5
+Natalie James,weavertrevor@example.net,Become an ML Researcher,Intermediate,Hands-on Projects,7,4
+Adam Smith,qdavenport@example.net,Become an ML Researcher,Advanced,Hands-on Projects,13,3
+James Stout,wrighthector@example.org,Master NLP,Beginner,Text-heavy,10,3
+Brenda Joseph,kevin66@example.net,Become a Data Engineer,Advanced,Hands-on Projects,5,3
+Brandon Moore,markgould@example.org,Become a Data Engineer,Advanced,Video-heavy,7,4
+John Valdez,torreskimberly@example.com,Become a Data Engineer,Advanced,Hands-on Projects,5,4
+Patrick Carter,wwilkins@example.com,Become a Data Engineer,Advanced,Text-heavy,17,6
+James Schwartz,colemanalexandra@example.org,Learn Web Development,Advanced,Text-heavy,18,4
+Christopher Obrien,xtaylor@example.org,Learn Web Development,Advanced,Hands-on Projects,12,3
+Shelly Harris,christopher16@example.net,Master NLP,Intermediate,Text-heavy,18,3
+Jennifer Turner,desiree20@example.net,Become a Data Engineer,Intermediate,Video-heavy,5,3
+Felicia Elliott,kevin92@example.com,Learn Web Development,Advanced,Text-heavy,6,2
+Samantha Brock,laurenphillips@example.com,Master NLP,Beginner,Hands-on Projects,15,6
+Joseph Duncan,melissa63@example.org,Become an ML Researcher,Advanced,Text-heavy,19,6
+Antonio Shepard,sgarza@example.com,Master NLP,Beginner,Video-heavy,13,2
+William Jones,benjamin46@example.net,Become an ML Researcher,Advanced,Text-heavy,15,2
+Larry Gallagher,fball@example.net,Become a Data Engineer,Advanced,Text-heavy,12,3
+Andrew Fletcher,rrivera@example.net,Master NLP,Advanced,Text-heavy,7,3
+Seth Chan,floresmorgan@example.net,Master NLP,Beginner,Video-heavy,12,6
+Amanda Griffin,carolinethompson@example.org,Become a Data Engineer,Intermediate,Video-heavy,4,6
+Justin Jenkins,clarkrebecca@example.com,Learn Web Development,Intermediate,Text-heavy,15,3
+Kristine Williams,lindsey00@example.org,Become an ML Researcher,Beginner,Video-heavy,20,6
+Tony Smith,lwilliams@example.net,Become an ML Researcher,Beginner,Text-heavy,13,2
+Timothy Parks,dsanchez@example.org,Become a Data Engineer,Advanced,Hands-on Projects,8,5
+Donald Moore,mcculloughmelissa@example.net,Become a Data Engineer,Intermediate,Hands-on Projects,15,5
+David Martinez,michael91@example.net,Master NLP,Advanced,Video-heavy,8,3
+Charles Fisher,phunter@example.com,Become a Data Engineer,Advanced,Video-heavy,9,4
+Linda Rhodes,christopher95@example.org,Learn Web Development,Advanced,Video-heavy,14,3
+Joshua Allen,higginsbarry@example.net,Become a Data Engineer,Advanced,Hands-on Projects,6,5
+Marc Andrade,jasonwalker@example.com,Master NLP,Intermediate,Video-heavy,8,6
+Shannon Atkins,kevin36@example.com,Master NLP,Intermediate,Hands-on Projects,15,6
+Dustin Castro Jr.,darren37@example.net,Learn Web Development,Beginner,Text-heavy,20,4
+Lynn Robinson,sandrapeterson@example.org,Learn Web Development,Advanced,Text-heavy,15,4
+Philip Valdez,stephaniemiller@example.net,Learn Web Development,Advanced,Text-heavy,5,2
+Kenneth Rose,coopermaria@example.com,Master NLP,Beginner,Hands-on Projects,20,3
+Brenda Andersen,jennifermcintyre@example.org,Become a Data Engineer,Intermediate,Hands-on Projects,20,6
+Charles Dougherty,barnold@example.com,Become an ML Researcher,Beginner,Text-heavy,7,2
+Glen Austin,psanchez@example.org,Learn Web Development,Beginner,Video-heavy,12,2
+Lori Davis,vwallace@example.com,Master NLP,Advanced,Video-heavy,10,4
+Janice Wilson,alicia89@example.net,Become a Data Engineer,Intermediate,Text-heavy,10,2
+Elizabeth Simmons,guzmanamy@example.net,Learn Web Development,Advanced,Video-heavy,18,2
+Mitchell Baldwin,lisa10@example.net,Learn Web Development,Intermediate,Video-heavy,16,3
+Todd Bryan,erin61@example.org,Become a Data Engineer,Advanced,Text-heavy,4,4
+James Wilson,derrick21@example.com,Become a Data Engineer,Advanced,Hands-on Projects,12,4
+Kathy Reynolds MD,david45@example.net,Become an ML Researcher,Intermediate,Video-heavy,6,2
+Michael Young,ronald09@example.com,Become a Data Engineer,Advanced,Text-heavy,19,6
+Joshua Watts,clarkjeanette@example.org,Master NLP,Beginner,Text-heavy,7,2
+Timothy Gross,amanda95@example.net,Become a Data Engineer,Advanced,Hands-on Projects,10,3
+Mathew Warner,stephaniebuchanan@example.net,Master NLP,Intermediate,Text-heavy,8,5
+Dale Pittman,mmanning@example.net,Become an ML Researcher,Advanced,Video-heavy,5,4
+Rebecca Barrett,ltaylor@example.com,Learn Web Development,Advanced,Text-heavy,17,3
+Mr. Jason White,iross@example.org,Become an ML Researcher,Intermediate,Video-heavy,9,4
+Sherry Palmer,ndean@example.net,Master NLP,Intermediate,Text-heavy,5,6
+Dr. Christopher Salas,cindylester@example.net,Become an ML Researcher,Advanced,Video-heavy,6,5
+Ashley Richmond,dorr@example.org,Become a Data Engineer,Intermediate,Text-heavy,4,2
+Melissa Jones,scottmarquez@example.org,Become an ML Researcher,Intermediate,Video-heavy,17,2
+Teresa Curtis,lynn04@example.net,Learn Web Development,Advanced,Video-heavy,9,6
+Joshua Bright,dmckay@example.net,Master NLP,Beginner,Hands-on Projects,15,5
+James Adkins,julie89@example.org,Master NLP,Beginner,Hands-on Projects,9,3
+Gregory Coleman,james12@example.org,Master NLP,Intermediate,Video-heavy,14,3
+Daniel Gonzales,turnerwalter@example.com,Become a Data Engineer,Beginner,Text-heavy,20,2
+Cody Andersen,mwallace@example.net,Learn Web Development,Advanced,Text-heavy,5,5
+William Little,johnnyvincent@example.com,Master NLP,Advanced,Video-heavy,8,4
+Johnny Lynch,joshuajones@example.com,Master NLP,Intermediate,Text-heavy,14,4
+Eric Werner,jrichards@example.com,Master NLP,Intermediate,Video-heavy,14,2
+Gary Wood,kyle90@example.net,Learn Web Development,Beginner,Video-heavy,16,3
+John Malone,richard77@example.net,Become an ML Researcher,Advanced,Hands-on Projects,15,6
+Paul Nelson,melissanguyen@example.com,Master NLP,Beginner,Video-heavy,19,5
+Emily Wilson PhD,vanessavelez@example.net,Learn Web Development,Advanced,Text-heavy,20,5
+Erin Brown,linda95@example.org,Master NLP,Intermediate,Hands-on Projects,4,2
+Sandra Gordon,qmathis@example.org,Master NLP,Beginner,Hands-on Projects,7,5
+Michael Watson,michael07@example.com,Learn Web Development,Advanced,Hands-on Projects,8,6
+Gregory Newton,xjohnson@example.com,Learn Web Development,Advanced,Hands-on Projects,16,4
+Mrs. Cynthia Gilbert,millerjennifer@example.net,Become an ML Researcher,Beginner,Video-heavy,8,2
+Gregory Simon,xhernandez@example.org,Become a Data Engineer,Intermediate,Video-heavy,20,3
+Scott Thomas,ryanhannah@example.org,Master NLP,Advanced,Video-heavy,7,6
+Emily Sexton,logan42@example.com,Master NLP,Beginner,Hands-on Projects,5,5
+Sharon Pineda,benjaminharper@example.net,Master NLP,Beginner,Hands-on Projects,17,4
+Natasha Kim,seanhunt@example.com,Become a Data Engineer,Advanced,Video-heavy,14,6
+George Jennings,lynnhayden@example.org,Become a Data Engineer,Beginner,Text-heavy,19,3
+Kelly Stephens,erin73@example.com,Master NLP,Beginner,Video-heavy,11,2
+Margaret Thompson,kcollins@example.org,Become an ML Researcher,Intermediate,Video-heavy,6,3
+Edwin Hart,lisa49@example.com,Become a Data Engineer,Beginner,Video-heavy,11,3
+Jason Martin,rebeccahopkins@example.net,Master NLP,Advanced,Text-heavy,17,2
+Scott Cox,fharrison@example.com,Become a Data Engineer,Beginner,Hands-on Projects,12,6
+David Roberts,bgallegos@example.com,Become a Data Engineer,Intermediate,Video-heavy,9,3
+Jeremiah Banks,moodykenneth@example.org,Learn Web Development,Beginner,Hands-on Projects,12,5
+Laura Riley,fergusonmark@example.org,Master NLP,Advanced,Text-heavy,17,5
+Kevin Hines,andreanewton@example.net,Master NLP,Beginner,Video-heavy,12,6
+Martin Warner,charles04@example.net,Become a Data Engineer,Intermediate,Hands-on Projects,17,2
+Maria Carter,mcarter@example.net,Become an ML Researcher,Beginner,Text-heavy,12,2
+Jacqueline Fields,kaitlin93@example.net,Learn Web Development,Intermediate,Text-heavy,11,4
+Joanna Mathews,greendaniel@example.net,Learn Web Development,Intermediate,Text-heavy,8,3
+Carlos Nguyen,ashleywebb@example.net,Master NLP,Advanced,Text-heavy,8,4
+William Collins,charlesphelps@example.org,Learn Web Development,Intermediate,Hands-on Projects,8,2
+Karen Ramos,mark91@example.org,Become an ML Researcher,Intermediate,Hands-on Projects,5,5
+Seth Newman,eric60@example.org,Learn Web Development,Intermediate,Text-heavy,15,3
+Mr. Robert Brown,martinkenneth@example.org,Become an ML Researcher,Beginner,Hands-on Projects,20,3
+Theresa Moore,kelleymichael@example.org,Become an ML Researcher,Intermediate,Hands-on Projects,4,2
+Jeremiah Welch,rachelfritz@example.com,Learn Web Development,Beginner,Text-heavy,8,4
+Christopher Dalton,brittany57@example.com,Become an ML Researcher,Beginner,Video-heavy,20,2
+Dale Rose,jessicashaw@example.net,Become a Data Engineer,Advanced,Hands-on Projects,6,2
+Victoria Terry,umitchell@example.org,Master NLP,Advanced,Text-heavy,15,5
+Travis Burch,jbrown@example.net,Become a Data Engineer,Beginner,Video-heavy,18,4
+Victoria Benjamin,jbrown@example.com,Become a Data Engineer,Advanced,Text-heavy,15,5
+Tyler Wagner,gdiaz@example.net,Become a Data Engineer,Beginner,Video-heavy,20,3
+Robin Fischer,hillmolly@example.org,Learn Web Development,Intermediate,Hands-on Projects,12,5
+Cameron Kent DDS,matthew60@example.net,Become an ML Researcher,Advanced,Hands-on Projects,8,5
+Dawn Jimenez,butlerkimberly@example.com,Become an ML Researcher,Beginner,Video-heavy,16,3
+George Johnston,wendy77@example.net,Become an ML Researcher,Advanced,Hands-on Projects,12,4
+Brenda Collier,ravenmclaughlin@example.net,Become a Data Engineer,Intermediate,Video-heavy,5,5
+Julie Simon,cheryl83@example.com,Become a Data Engineer,Advanced,Text-heavy,11,4
+Kevin Craig,buchanankathy@example.com,Become a Data Engineer,Beginner,Text-heavy,17,5
+Michael Cardenas,jonesrobert@example.net,Become an ML Researcher,Intermediate,Hands-on Projects,9,3
+Mr. Jeffrey Lewis,gravesdaniel@example.net,Learn Web Development,Beginner,Video-heavy,8,4
+Kayla Faulkner,ronaldkent@example.org,Learn Web Development,Beginner,Text-heavy,19,3
+Karen Jackson,mlewis@example.com,Learn Web Development,Intermediate,Hands-on Projects,6,5
+Patrick Nolan,rodriguezmark@example.net,Master NLP,Intermediate,Video-heavy,18,5
+Brianna Garcia,lindseykayla@example.com,Become a Data Engineer,Advanced,Text-heavy,8,5
+Melissa Nguyen,lori34@example.com,Become a Data Engineer,Intermediate,Hands-on Projects,13,3
+Mary Gray,ericaescobar@example.org,Learn Web Development,Intermediate,Video-heavy,15,6
+Lindsay Roberson,jonestravis@example.org,Learn Web Development,Intermediate,Text-heavy,14,4
+Joshua Olsen,luke75@example.com,Become a Data Engineer,Beginner,Text-heavy,14,4
+Michael Roman,melissa84@example.net,Become a Data Engineer,Intermediate,Video-heavy,14,3
+Kelly Jackson,fthompson@example.org,Become an ML Researcher,Beginner,Video-heavy,19,3
+Dakota Brown,thomasmckinney@example.net,Become a Data Engineer,Beginner,Text-heavy,9,2
+Bryan Smith,michelle96@example.org,Become a Data Engineer,Intermediate,Video-heavy,16,2
+Bobby Kirk,steven37@example.org,Become an ML Researcher,Beginner,Hands-on Projects,17,6
+Pam Schmidt,johnsongregory@example.com,Master NLP,Intermediate,Hands-on Projects,9,3
+Kaitlyn Rose,smendez@example.org,Master NLP,Advanced,Hands-on Projects,20,5
+Samantha Davis,bcook@example.com,Become an ML Researcher,Advanced,Text-heavy,19,5
+Mitchell Tanner,nberry@example.org,Master NLP,Beginner,Video-heavy,13,4
+Jose Nguyen,mcmillannathaniel@example.com,Become a Data Engineer,Beginner,Hands-on Projects,7,4
+Dana Taylor,palmermartin@example.net,Become an ML Researcher,Advanced,Video-heavy,19,3
+Ashley Hernandez,elizabeth27@example.org,Become a Data Engineer,Advanced,Hands-on Projects,20,4
+Laura Villa,beverly32@example.com,Become an ML Researcher,Intermediate,Text-heavy,14,2
+Daniel Snow,johnstonbrittney@example.org,Master NLP,Advanced,Hands-on Projects,11,3
+Brenda Snyder,fritzpatricia@example.org,Become an ML Researcher,Advanced,Text-heavy,4,4
+Jacqueline Mckinney,ebonilla@example.com,Learn Web Development,Beginner,Video-heavy,16,5
+Terri Kramer,richardsheather@example.org,Become an ML Researcher,Advanced,Hands-on Projects,4,2
+John Decker,rivassarah@example.com,Become a Data Engineer,Advanced,Hands-on Projects,5,2
+Matthew Brown,kimperez@example.net,Learn Web Development,Advanced,Video-heavy,10,5
+Hector Patrick,richardray@example.com,Master NLP,Intermediate,Text-heavy,12,4
+John Long,flong@example.com,Become an ML Researcher,Advanced,Video-heavy,13,5
+Heather Anthony,amywu@example.com,Learn Web Development,Beginner,Video-heavy,6,2
+Brian Patel,pthomas@example.net,Become an ML Researcher,Advanced,Video-heavy,13,4
+Julie Smith,sosacharles@example.org,Master NLP,Advanced,Video-heavy,4,4
+Angel Spears,hammondzoe@example.com,Become a Data Engineer,Intermediate,Video-heavy,11,6
+Nicole Sanchez,jessica05@example.org,Master NLP,Intermediate,Hands-on Projects,19,6
+Sierra Hunt,deborah39@example.org,Become an ML Researcher,Advanced,Video-heavy,9,5
+Brittany Hicks,kyoung@example.org,Master NLP,Advanced,Video-heavy,18,4
+Renee Powell,wayne27@example.com,Become a Data Engineer,Intermediate,Text-heavy,9,5
+Penny Marshall,egates@example.net,Learn Web Development,Advanced,Text-heavy,14,6
+Sharon Clark,rlewis@example.net,Become an ML Researcher,Intermediate,Video-heavy,18,2
+Lee Calhoun,kdavis@example.com,Become a Data Engineer,Beginner,Text-heavy,7,4
+Kevin Murray,madams@example.com,Learn Web Development,Intermediate,Video-heavy,16,6
+Shirley Davis DDS,pmeyers@example.com,Become an ML Researcher,Advanced,Text-heavy,6,4
+Jennifer Bell,peggy00@example.com,Master NLP,Intermediate,Video-heavy,19,4
+Albert Lopez,shane51@example.org,Become an ML Researcher,Intermediate,Text-heavy,17,2
+Martin Weber,garrisonjerry@example.net,Master NLP,Beginner,Hands-on Projects,5,6
+Dawn Haney,jonesjason@example.net,Master NLP,Advanced,Text-heavy,15,5
+Louis Davis,ustephenson@example.com,Become a Data Engineer,Intermediate,Hands-on Projects,8,3
+Lindsey Dean,barrettdaniel@example.net,Master NLP,Intermediate,Video-heavy,14,3
+Jeanette Love,jacqueline04@example.org,Learn Web Development,Advanced,Text-heavy,14,3
+Wanda Hall,april64@example.net,Master NLP,Beginner,Text-heavy,9,4
+Ashley Flores,christy54@example.net,Become an ML Researcher,Intermediate,Text-heavy,11,2
+William Lyons,rmatthews@example.org,Master NLP,Advanced,Video-heavy,19,3
+Spencer Myers,rwatts@example.com,Master NLP,Intermediate,Hands-on Projects,8,5
+Brian Kent,jcole@example.org,Become an ML Researcher,Beginner,Hands-on Projects,9,3
+Lisa Wiley,cynthianelson@example.com,Learn Web Development,Intermediate,Text-heavy,20,4
+Abigail Hawkins,mark09@example.org,Become a Data Engineer,Beginner,Video-heavy,20,4
+Mr. Larry Adams MD,angelica64@example.com,Learn Web Development,Intermediate,Text-heavy,9,3
+Justin Aguilar,thomasnorman@example.com,Master NLP,Intermediate,Hands-on Projects,15,3
+Misty Hays,wayne33@example.org,Master NLP,Advanced,Text-heavy,11,3
+William Johnson,dcox@example.net,Become an ML Researcher,Advanced,Text-heavy,20,3
+Stacey Walker,claytondrake@example.net,Become an ML Researcher,Advanced,Video-heavy,18,4
+Elizabeth Stewart,martinezannette@example.com,Learn Web Development,Advanced,Hands-on Projects,13,6
+Allison Marshall,amberrodriguez@example.org,Become an ML Researcher,Advanced,Video-heavy,19,4
+Stephanie Dickson,sjohnson@example.com,Become an ML Researcher,Intermediate,Text-heavy,7,6
+Justin Woods,stacy39@example.org,Become an ML Researcher,Advanced,Video-heavy,9,2
+Benjamin Wu,rbooth@example.com,Master NLP,Intermediate,Text-heavy,14,6
+Daniel Carey,christina55@example.net,Become an ML Researcher,Intermediate,Hands-on Projects,13,5
+Roger Miller,ywalker@example.net,Become an ML Researcher,Advanced,Video-heavy,5,5
+Dr. Jonathan Kim DDS,jerrygonzalez@example.com,Master NLP,Beginner,Text-heavy,6,4
+David Larsen,jordanheather@example.net,Master NLP,Intermediate,Hands-on Projects,19,3
+Melissa Hernandez,whill@example.com,Master NLP,Advanced,Text-heavy,5,4
+Clifford Collins,ulewis@example.org,Become an ML Researcher,Advanced,Hands-on Projects,19,2
+Marie Dillon,aprilchandler@example.org,Become a Data Engineer,Intermediate,Video-heavy,19,3
+Heather Gates,david69@example.org,Learn Web Development,Intermediate,Text-heavy,5,5
+Lisa Bell,zhall@example.com,Master NLP,Beginner,Hands-on Projects,17,5
+Anthony Singleton,daniellejohnson@example.org,Learn Web Development,Intermediate,Hands-on Projects,19,5
+David Mays,galvanjoseph@example.com,Become an ML Researcher,Advanced,Hands-on Projects,7,6
+Kendra Miller,stephanie89@example.com,Master NLP,Beginner,Text-heavy,6,2
+Darrell Robinson,udean@example.org,Master NLP,Beginner,Hands-on Projects,5,5
+Robin Villegas,ltaylor@example.org,Become a Data Engineer,Advanced,Text-heavy,9,4
+Sarah Mason,joseph07@example.org,Become a Data Engineer,Advanced,Video-heavy,8,4
+Joseph Burns,shawn20@example.org,Master NLP,Intermediate,Hands-on Projects,14,5
+Taylor Colon,goodwinjenna@example.net,Learn Web Development,Intermediate,Hands-on Projects,16,4
+Dr. Hannah Austin,kevin08@example.net,Become a Data Engineer,Intermediate,Text-heavy,8,4
+Jason Garcia,jamescampos@example.org,Master NLP,Beginner,Video-heavy,20,5
+Laura Goodman,ustone@example.com,Become a Data Engineer,Advanced,Text-heavy,9,5
+Wendy Potter,rachaelgarcia@example.org,Learn Web Development,Intermediate,Text-heavy,5,6
+Steven Wilson,jeffrey84@example.org,Master NLP,Beginner,Text-heavy,4,3
+Michael Rogers,nicholas55@example.net,Become an ML Researcher,Beginner,Hands-on Projects,17,4
+Jesse Rodriguez,jerrycrawford@example.net,Learn Web Development,Intermediate,Hands-on Projects,11,3
+Barbara Wells,deansanchez@example.net,Become a Data Engineer,Advanced,Hands-on Projects,10,5
+Jill Velazquez,michael46@example.net,Master NLP,Beginner,Text-heavy,19,2
+Courtney Willis,simpsonamanda@example.org,Become an ML Researcher,Beginner,Hands-on Projects,4,3
+Melinda Dorsey,dana03@example.net,Become a Data Engineer,Intermediate,Video-heavy,19,5
+Scott Green,kimfranklin@example.org,Master NLP,Advanced,Video-heavy,19,5
+Jeffrey Roberts,moorenicole@example.net,Become an ML Researcher,Intermediate,Hands-on Projects,6,2
+Melanie Fox,becky78@example.com,Become a Data Engineer,Intermediate,Video-heavy,15,6
+Laura Garner,nguyenjessica@example.org,Become an ML Researcher,Advanced,Video-heavy,17,2
+Jacob Vaughan,kristensmith@example.net,Learn Web Development,Intermediate,Video-heavy,4,3
+Leslie Collins,georgemendoza@example.net,Master NLP,Advanced,Hands-on Projects,7,4
+Kaitlin Hardy,robinsonanthony@example.org,Master NLP,Intermediate,Hands-on Projects,4,4
+Todd Black,williambenton@example.net,Learn Web Development,Intermediate,Text-heavy,14,6
+Monica Johnson,anthonylopez@example.net,Learn Web Development,Beginner,Text-heavy,20,3
+Kayla Reed,gilmorebruce@example.net,Master NLP,Advanced,Video-heavy,8,5
+Karen Acevedo,cgutierrez@example.org,Become an ML Researcher,Intermediate,Text-heavy,5,6
+Victoria Estes,brooksdavid@example.org,Become a Data Engineer,Beginner,Text-heavy,17,5
+Andrew Smith,ddavies@example.org,Learn Web Development,Intermediate,Hands-on Projects,10,5
+Michael Dixon,tyler87@example.net,Become an ML Researcher,Beginner,Video-heavy,18,5
+Steven Thompson,keithreed@example.net,Become a Data Engineer,Advanced,Video-heavy,4,3
+Charles Taylor,hector23@example.com,Become a Data Engineer,Intermediate,Text-heavy,13,5
+Christine Palmer,erika27@example.net,Become a Data Engineer,Advanced,Hands-on Projects,11,3
+David Reed,omartinez@example.net,Become an ML Researcher,Advanced,Video-heavy,16,3
+Patricia Baldwin,joshua00@example.org,Become an ML Researcher,Beginner,Hands-on Projects,4,3
+Scott Burns,tannergomez@example.net,Become a Data Engineer,Intermediate,Text-heavy,6,2
+Jeremy Merritt,sarahfisher@example.com,Become an ML Researcher,Intermediate,Text-heavy,8,5
+Brian Chandler,nicoleholmes@example.net,Become a Data Engineer,Advanced,Hands-on Projects,10,3
+Wesley Stephens,zdiaz@example.com,Master NLP,Advanced,Hands-on Projects,15,4
+Justin Holt,michaelriley@example.net,Become an ML Researcher,Advanced,Video-heavy,19,4
+Justin Perez,matthew64@example.com,Learn Web Development,Intermediate,Hands-on Projects,5,4
+Wesley Yoder,mitchellmary@example.org,Become an ML Researcher,Advanced,Hands-on Projects,13,6
+Margaret Freeman,xrussell@example.com,Become a Data Engineer,Advanced,Video-heavy,15,3
+Larry Adkins,raywilliam@example.net,Learn Web Development,Advanced,Hands-on Projects,19,6
+Ronald Owen,russellheather@example.net,Master NLP,Intermediate,Video-heavy,10,5
+Nathan Harris,ghughes@example.com,Become an ML Researcher,Intermediate,Video-heavy,6,3
+Mrs. Jenna Sanchez,brownryan@example.net,Learn Web Development,Advanced,Text-heavy,12,2
+Sabrina Smith,qmiller@example.net,Master NLP,Beginner,Video-heavy,6,6
+Sylvia Brown,jenniferhernandez@example.org,Master NLP,Advanced,Hands-on Projects,11,6
+Matthew Bailey,michaelhunter@example.com,Learn Web Development,Beginner,Hands-on Projects,18,3
+Melissa Hinton,sarahsanchez@example.org,Become a Data Engineer,Intermediate,Hands-on Projects,18,3
+Jonathan Perez,lyonskari@example.org,Become an ML Researcher,Advanced,Hands-on Projects,7,2
+Melvin Smith,busherica@example.org,Master NLP,Advanced,Hands-on Projects,14,5
+Kimberly Mckinney,sheaemily@example.com,Become an ML Researcher,Intermediate,Hands-on Projects,7,2
+Anthony Wolf,cervanteseddie@example.org,Become a Data Engineer,Intermediate,Video-heavy,15,4
+Justin Hurst,alicia77@example.com,Become a Data Engineer,Intermediate,Text-heavy,17,2
+Kristen Jones,davidacosta@example.com,Become an ML Researcher,Intermediate,Hands-on Projects,10,2
+Brian Jackson,katiedavidson@example.org,Master NLP,Advanced,Video-heavy,4,6
+Lucas Butler,djones@example.net,Become a Data Engineer,Beginner,Hands-on Projects,14,6
+Anthony Trevino,alejandro08@example.com,Master NLP,Intermediate,Hands-on Projects,16,6
+Travis Chavez,onguyen@example.net,Become a Data Engineer,Beginner,Text-heavy,17,5
+Katherine Anderson,ycarroll@example.net,Learn Web Development,Advanced,Video-heavy,11,4
+Phillip Fuller,amandashaw@example.org,Master NLP,Beginner,Hands-on Projects,5,2
+Justin Melton,schmittlauren@example.org,Become an ML Researcher,Intermediate,Video-heavy,14,6
+Jeffrey Farmer,griffinsonya@example.org,Become a Data Engineer,Intermediate,Text-heavy,15,6
+Ronald Riley,clairegalloway@example.net,Master NLP,Beginner,Video-heavy,6,6
+Tonya Miller,gevans@example.net,Become a Data Engineer,Advanced,Hands-on Projects,10,5
+Cory Garrison,uhebert@example.org,Master NLP,Advanced,Video-heavy,12,3
+John Lucero,xmunoz@example.net,Learn Web Development,Advanced,Video-heavy,10,5
+Jennifer David,adam39@example.com,Become an ML Researcher,Beginner,Text-heavy,8,2
+Kevin Ross,reneesanders@example.org,Master NLP,Intermediate,Hands-on Projects,13,6
+Jessica Baker,calvinbecker@example.org,Learn Web Development,Advanced,Hands-on Projects,20,4
+Raymond Cohen,hhutchinson@example.com,Become a Data Engineer,Intermediate,Video-heavy,4,2
+Evelyn Lyons,brandtchris@example.org,Master NLP,Advanced,Hands-on Projects,20,4
+Gina Gray,colleenharper@example.com,Become a Data Engineer,Intermediate,Hands-on Projects,6,4
+Maria Munoz,parsonskelsey@example.net,Become an ML Researcher,Advanced,Video-heavy,10,2
+Patricia Reeves,rodriguezdavid@example.org,Become an ML Researcher,Intermediate,Text-heavy,19,6
+Jeremiah Allen,codywillis@example.com,Master NLP,Intermediate,Video-heavy,18,5
+Robin Davis,xdougherty@example.com,Master NLP,Beginner,Video-heavy,19,6
+Amy Armstrong,conniesnow@example.org,Master NLP,Beginner,Video-heavy,9,4
+Brenda Banks,jeffreycollins@example.org,Become a Data Engineer,Advanced,Text-heavy,8,3
+Jennifer Munoz,kelly51@example.org,Become an ML Researcher,Advanced,Text-heavy,19,4
+Teresa Perkins,matthew56@example.org,Master NLP,Beginner,Video-heavy,18,5
+Cheryl Smith,rodneycollins@example.org,Become an ML Researcher,Beginner,Text-heavy,13,2
+Jacob Stokes,williamsonerin@example.com,Become a Data Engineer,Intermediate,Video-heavy,13,6
+Suzanne Robbins,qjones@example.com,Learn Web Development,Beginner,Text-heavy,13,5
+Ashley Smith,roberto25@example.com,Learn Web Development,Intermediate,Video-heavy,7,3
+Richard Howard,pamelahoward@example.org,Become a Data Engineer,Beginner,Hands-on Projects,11,2
+Tim Sutton,ian64@example.net,Become an ML Researcher,Beginner,Text-heavy,16,4
+Shannon Taylor,youngann@example.org,Become a Data Engineer,Advanced,Hands-on Projects,13,5
+Natasha Romero,stevenslisa@example.org,Master NLP,Beginner,Hands-on Projects,20,4
+Maria Scott,gregoryatkinson@example.net,Master NLP,Advanced,Hands-on Projects,12,3
+Tanner Tate,stewartvincent@example.org,Become a Data Engineer,Advanced,Hands-on Projects,11,6
+Nathaniel Mccormick,susannoble@example.net,Become an ML Researcher,Beginner,Text-heavy,6,3
+Adam Carpenter,gdunn@example.org,Become an ML Researcher,Intermediate,Hands-on Projects,9,6
+Gabriela Atkinson,sanchezjennifer@example.com,Master NLP,Intermediate,Text-heavy,15,3
+Claudia Singh,lopezdarren@example.com,Become a Data Engineer,Beginner,Text-heavy,8,5
+Alexis Cook,cvaldez@example.net,Master NLP,Advanced,Video-heavy,20,6
+Shane Hill,hcook@example.org,Master NLP,Advanced,Video-heavy,17,3
+Erica Brown,yclark@example.net,Master NLP,Beginner,Text-heavy,11,3
+Linda Foster,michael04@example.com,Become an ML Researcher,Beginner,Hands-on Projects,13,5
+Tyler Jones,allentiffany@example.org,Become a Data Engineer,Beginner,Hands-on Projects,15,5
+Scott Cross,petersonjacob@example.org,Learn Web Development,Advanced,Text-heavy,18,5
+Amber Clark,timothy12@example.org,Master NLP,Beginner,Text-heavy,4,4
+Tyler Smith,nathan75@example.net,Become an ML Researcher,Beginner,Video-heavy,8,6
+Derek Bowers,chelsey24@example.net,Become an ML Researcher,Beginner,Video-heavy,10,4
+Jason Rocha,iananderson@example.com,Become a Data Engineer,Beginner,Video-heavy,5,2
+Melanie Green,jenniferford@example.org,Become an ML Researcher,Advanced,Text-heavy,5,2
+Bob Simpson,smithmatthew@example.net,Become an ML Researcher,Beginner,Video-heavy,16,6
+Sarah Hernandez,andrewdavis@example.org,Master NLP,Intermediate,Video-heavy,20,5
+Jessica Ellis,dustin02@example.net,Become a Data Engineer,Beginner,Video-heavy,4,6
+Nathan Alvarado,zgreen@example.net,Master NLP,Intermediate,Video-heavy,20,6
+Emily Hoffman,martinezmichael@example.com,Master NLP,Intermediate,Hands-on Projects,20,2
+Russell Oneill,nicole50@example.com,Become an ML Researcher,Beginner,Video-heavy,14,4
+Donna Wilson,jenniferlee@example.org,Learn Web Development,Intermediate,Video-heavy,9,3
+Jennifer Richardson,hardyanthony@example.com,Learn Web Development,Beginner,Hands-on Projects,20,4
+Darlene Porter,mitchellwhitney@example.net,Master NLP,Beginner,Hands-on Projects,19,2
+Richard Benson,cwest@example.com,Master NLP,Intermediate,Hands-on Projects,17,2
+Renee Yoder,castanedakatie@example.org,Master NLP,Intermediate,Video-heavy,12,6
+Mrs. Vickie Meyers,kristie04@example.org,Learn Web Development,Beginner,Text-heavy,11,6
+Scott Koch,joseph72@example.net,Master NLP,Advanced,Video-heavy,12,4
+Samuel Smith,vgilbert@example.net,Learn Web Development,Intermediate,Video-heavy,9,5
+Christopher Brown,brandy68@example.com,Become a Data Engineer,Beginner,Hands-on Projects,20,3
+Tina Ewing,jacksoneric@example.com,Become a Data Engineer,Advanced,Hands-on Projects,19,5
+Paul Hammond,jasonbray@example.com,Master NLP,Beginner,Hands-on Projects,11,2
+Maria Smith,djohnson@example.net,Learn Web Development,Advanced,Hands-on Projects,6,3
+Jordan Cain,gchan@example.com,Become an ML Researcher,Beginner,Text-heavy,15,3
+Cindy Jimenez,dorothy98@example.com,Master NLP,Intermediate,Video-heavy,9,2
+Jonathan Lam,yday@example.org,Become an ML Researcher,Advanced,Hands-on Projects,15,4
+Robert Snyder,mharvey@example.net,Master NLP,Beginner,Hands-on Projects,20,3
+Robert Campbell,hunterjoseph@example.org,Become a Data Engineer,Advanced,Video-heavy,8,2
+William Boone,rebecca19@example.net,Become a Data Engineer,Intermediate,Text-heavy,18,2
+Connie Watts,burtonmatthew@example.com,Master NLP,Beginner,Text-heavy,6,3
+Kayla Frank,ycisneros@example.com,Become an ML Researcher,Advanced,Hands-on Projects,19,6
+Jonathon Wagner,fmiller@example.org,Master NLP,Intermediate,Text-heavy,14,6
+Robert Nielsen,schmidtjennifer@example.com,Master NLP,Intermediate,Hands-on Projects,11,2
+Linda Diaz,judith97@example.net,Learn Web Development,Intermediate,Video-heavy,17,3
+Joseph Wolf,procha@example.net,Master NLP,Intermediate,Hands-on Projects,14,5
+Catherine Knox,stewartnicholas@example.net,Master NLP,Intermediate,Video-heavy,4,2
+Rebecca Smith,sjohnson@example.org,Learn Web Development,Advanced,Text-heavy,17,3
+Jessica Johnson,icooper@example.net,Learn Web Development,Beginner,Video-heavy,13,6
+April Wright,sandragomez@example.net,Become an ML Researcher,Advanced,Hands-on Projects,4,3
+Angela Vargas,xcarroll@example.net,Become a Data Engineer,Intermediate,Text-heavy,12,4
+Emily Singh,brianroberts@example.com,Master NLP,Advanced,Text-heavy,12,2
+Derrick Cameron,wesleywest@example.net,Become a Data Engineer,Beginner,Text-heavy,19,4
+Tina Pearson,matthewjohnson@example.org,Learn Web Development,Beginner,Text-heavy,16,4
+Joel Anderson,garrettbarnett@example.org,Learn Web Development,Advanced,Video-heavy,5,3
+Joseph Gonzalez,gonzalezmargaret@example.com,Become a Data Engineer,Advanced,Text-heavy,9,5
+Wendy Carroll,amandapennington@example.net,Become an ML Researcher,Intermediate,Video-heavy,7,5
+Kelly Ramirez,beth29@example.net,Become an ML Researcher,Intermediate,Video-heavy,6,6
+Kevin Olson,christina01@example.org,Become an ML Researcher,Beginner,Hands-on Projects,4,6

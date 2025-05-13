@@ -1,0 +1,25 @@
+Week,Focus,Resources,Task
+Week 1:,PHP Fundamentals and Drupal Basics,"
+- PHP for Beginners: https://www.udemy.com/course/php-for-beginners/
+- Drupal 9 Fundamentals: https://www.drupal.org/docs/8/getting-started/drupal-9-fundamentals",Complete the PHP for Beginners course and set up a local Drupal 9 development environment.
+Week 2:,PHP Intermediate Concepts and Drupal Theming,"
+- PHP Intermediate: https://www.w3schools.com/php/
+- Drupal Theming: https://www.drupal.org/docs/8/theming/drupal-theming",Complete the PHP Intermediate course and create a simple Drupal 9 theme.
+Week 3:,Advanced PHP and Custom Drupal Modules,"
+- Advanced PHP: https://www.codecademy.com/learn/learn-php
+- Creating Custom Modules in Drupal 9: https://www.drupal.org/docs/8/extending-drupal-9/creating-custom-modules",Implement a custom module in Drupal 9 based on the PHP concepts learned.
+Week 4:,Drupal 9 Module Development and Database Integration,"
+- Drupal 9 Module Development: https://www.drupal.org/docs/8/extending-drupal-9/creating-custom-modules
+- Drupal 9 Database APIs: https://www.drupal.org/docs/8/api/database-api/database-api",Create a Drupal 9 module that interacts with a local MySQL database.
+Week 5:,Drupal 9 Views and Entity API,"
+- Drupal 9 Views: https://www.drupal.org/docs/8/creating-custom-content/creating-views
+- Drupal 9 Entity API: https://www.drupal.org/docs/8/api/entity-api/entity-api",Develop a custom view and integrate it with an entity type of your choice.
+Week 6:,Drupal 9 Configuration Management and Drush,"
+- Drupal 9 Configuration Management: https://www.drupal.org/docs/8/extending-drupal-8/developing-configurable-features
+- Drush Command Quick Reference: https://www.drupal.org/docs/8/using-drush/quick-reference",Learn to use Drush for managing Drupal 9 configuration and deployments.
+Week 7:,Drupal 9 Performance Optimization and Security,"
+- Drupal 9 Performance Optimization: https://www.drupal.org/docs/8/performance/performance-overview
+- Drupal 9 Security best practices: https://www.drupal.org/docs/8/security/best-practices",Improve the performance and security of your Drupal 9 site by implementing some best practices.
+Week 8:,Drupal 9 Testing and Contrib Modules,"
+- Drupal 9 Testing: https://www.drupal.org/docs/develop/testing-drupal/testing-drupal
+- Popular Drupal 9 Contrib Modules: https://www.drupal.org/project/modules",Implement automated testing for your Drupal 9 site and add some popular contrib modules to enhance its functionality.

@@ -1,0 +1,54 @@
+Week 1:
+- Focus: PHP Fundamentals and Drupal Basics
+- Resources:
+  - PHP Fundamentals Course: https://www.codecademy.com/learn/learn-php
+  - Drupal 9 Fundamentals: https://www.drupal.org/learn/drupal/9
+- Task: Complete Codecademy's PHP Fundamentals course and create a simple Drupal 9 website using the Drupal 9 Fundamentals tutorial.
+
+Week 2:
+- Focus: PHP OOP and Drupal Module Development
+- Resources:
+  - PHP Object-Oriented Programming: https://www.w3schools.com/php/php_oop.asp
+  - Drupal 9 Module Development: https://backdropcms.org/guide/developer/modules
+- Task: Familiarize yourself with PHP OOP concepts and create a simple Drupal 9 module.
+
+Week 3:
+- Focus: Drupal Theme Development and API Integration
+- Resources:
+  - Drupal Theme Development: https://www.drupal.org/docs/theming
+  - Drupal RESTful Web Services: https://www.drupal.org/docs/8/api/restful-web-services/getting-started
+- Task: Modify the Drupal 9 website created in Week 1 and implement a RESTful API using the Drupal RESTful Web Services module.
+
+Week 4:
+- Focus: Drupal Performance Optimization and Security
+- Resources:
+  - Drupal Performance Optimization: https://www.drupal.org/docs/8/upgrade/8.9/performance-optimization
+  - Drupal Security Best Practices: https://www.drupal.org/docs/8/security/best-practices
+- Task: Optimize the Drupal 9 website for performance and implement security best practices learned from the resources.
+
+Week 5:
+- Focus: Drupal Database Management and Migrations
+- Resources:
+  - Drupal Database API: https://www.drupal.org/docs/8/api/database-api
+  - Drupal Migrations: https://www.drupal.org/docs/8/migrate
+- Task: Set up and manage the Drupal 9 website's database, and create a migration script to import data from another source.
+
+Week 6:
+- Focus: Project Management and Team Collaboration
+- Resources:
+  - Agile Project Management for Software Development: https://www.coursera.org/learn/agile-project-management
+  - Git and GitHub: https://www.atlassian.com/git
+- Task: Learn about Agile project management and set up a Git repository for your Drupal 9 project, utilizing Git and GitHub for version control.
+
+Week 7:
+- Focus: Drupal Testing and Quality Assurance
+- Resources:
+  - Drupal Testing: https://www.drupal.org/docs/8/testing
+  - Selenium WebDriver: https://www.selenium.dev/documentation/
+- Task: Write automated tests for the Drupal 9 project using Selenium WebDriver and ensure that the tests pass.
+
+Week 8:
+- Focus: Final Project and Review
+- Resources:
+  - Finalize Drupal 9 project and document the experience.
+- Task: Build a complex Drupal 9 project that showcases your skills in PHP, Drupal, APIs, database management, and testing. Document your experience to create a portfolio piece.
