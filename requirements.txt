@@ -5,3 +5,8 @@ faker
 openai
 langchain
 python-dotenv
+fpdf
+pymupdf
+python-dotenv
+sentence-transformers
+ics

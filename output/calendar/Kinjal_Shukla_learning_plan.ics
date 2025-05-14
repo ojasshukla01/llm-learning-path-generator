@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Crash Course: U.S. Constitution: Introduction](https://www.youtube.com/watch?v=UYXaFVMY5uQ)\n- [Khan Academy: Introduction to Constitutional Law](https://www.khanacademy.org/humanities/law-and-politics/us-constitutional-law/a/introduction-to-constitutional-law)\n\nTask:\nWatch the Crash Course video and complete the Khan Academy's Introduction to Constitutional Law module. Write a one-page summary of the key principles and concepts you've learned\, and discuss their importance in the context of a legal career.
+DURATION:P1D
+DTSTART:20250611T113921Z
+SUMMARY:Week 5:: Introduction to Constitutional Law
+UID:9b216f7f-7609-488c-828c-ef812ec4c718@9b21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Legal Writing Pro: Basic Legal Writing Skills](https://www.youtube.com/watch?v=nTUZK3JE1Ic)\n- [The Legal Writing Institute: Legal Writing Resources](https://www.legalwriting.org/resources/)\n\nTask:\nWatch the Legal Writing Pro video and explore the resources available on the Legal Writing Institute's website. Write a 500-word memorandum explaining a hypothetical legal issue\, including a statement of facts\, a legal argument\, and a conclusion.
+DURATION:P1D
+DTSTART:20250604T113921Z
+SUMMARY:Week 4:: Legal Writing and Communication Skills
+UID:dfbd8485-a873-48db-84c4-010dfdc28c8f@dfbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Crash Course: U.S. Government & Civics: Introduction to Law](https://www.youtube.com/watch?v=1XvXGzXIYfs)\n- [Khan Academy: Introduction to Law](https://www.khanacademy.org/humanities/law-and-politics/introduction-to-law/a/introduction-to-law)\n\nTask:\nWatch the Crash Course video and complete the Khan Academy's Introduction to Law module. Write a one-page summary of the key principles and concepts you've learned\, and discuss how they might apply to a legal career.
+DURATION:P1D
+DTSTART:20250514T113921Z
+SUMMARY:Week 1:: Introduction to Law and Legal Studies
+UID:e44bf72e-74d1-4f17-bb45-d09294f9b480@e44b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Legal Eagle: Understanding the Legal System](https://www.youtube.com/watch?v=0MhZMVN7L0o)\n- [Legal Research: Basic Research Strategies](https://www.law.cornell.edu/wex/legal_research)\n\nTask:\nWatch the Legal Eagle video and familiarize yourself with the basic strategies for legal research. Conduct a legal research project using the Cornell Legal Information Institute's guide and find a case related to a current event or a topic of interest. Summarize the case in a one-page report\, including the facts\, the legal question\, the decision\, and the reasoning.
+DURATION:P1D
+DTSTART:20250521T113921Z
+SUMMARY:Week 2:: Understanding the Legal System and Legal Research
+UID:3f2ac0ea-fd76-473c-b9b8-6f533c612829@3f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Resources:\n\n- [Crash Course: Ethics in Society: Ethics and Law](https://www.youtube.com/watch?v=JAqyO9cZBbg)\n- [American Bar Association: Model Rules of Professional Conduct](https://www.americanbar.org/groups/professional_responsibility/resources/model_rules_of_professional_conduct/)\n\nTask:\nWatch the Crash Course video on Ethics in Society and review the American Bar Association's Model Rules of Professional Conduct. Write a reflection on the importance of ethics in the legal profession and provide a real-life example of a legal ethical dilemma and how you would approach it.
+DURATION:P1D
+DTSTART:20250528T113921Z
+SUMMARY:Week 3:: Ethics and Professional Responsibility
+UID:01f188b4-aa6e-4c6a-bc83-b03ec066f612@01f1.org
+END:VEVENT
+END:VCALENDAR
